@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T19:41:17.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jvUcJlnbfrrjJzgQwhWv" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-22T19:43:38.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0bG6bAluRO9YDDyyEWok" version="20.5.3" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="731" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.2" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -877,13 +877,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-92" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=35;" vertex="1" parent="1">
-          <mxGeometry x="101" y="776" width="69" height="150" as="geometry" />
+          <mxGeometry x="101" y="776" width="699" height="194" as="geometry" />
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-93" value="[if folder is &lt;br&gt;inexistent]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="93" y="809" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-94" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="93" y="874" width="50" height="30" as="geometry" />
+          <mxGeometry x="95" y="923" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-95" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="102" y="923" width="700" height="8" as="geometry" />
@@ -932,6 +932,15 @@
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-105" value="Folder created successfully" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="590.5000000000001" y="884" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QkUWkM4qVgkFBgqkuegU-106" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="567.2100000000007" y="998.8199999999999" as="sourcePoint" />
+            <mxPoint x="381.28999999999996" y="998.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QkUWkM4qVgkFBgqkuegU-107" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="416.99999999999994" y="970" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
