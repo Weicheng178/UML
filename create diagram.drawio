@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T19:55:42.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XF1RjnfQymGER-j326N_" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-22T19:56:49.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="60ODbs75nt9dD0r009Rx" version="20.5.3" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="914" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.2" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.2" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -948,14 +948,14 @@
             <mxPoint x="183.53999999999996" y="1042.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QkUWkM4qVgkFBgqkuegU-132" value="Send notification message&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="192.32999999999993" y="1015" width="170" height="30" as="geometry" />
+        <mxCell id="QkUWkM4qVgkFBgqkuegU-132" value="Notify user a error" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="217.32999999999993" y="1015" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-133" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;width=60;height=35;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1015" width="700" height="194" as="geometry" />
+          <mxGeometry x="100" y="1015" width="70" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="QkUWkM4qVgkFBgqkuegU-134" value="[if folder is &lt;br&gt;inexistent]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="92" y="1048" width="80" height="40" as="geometry" />
+        <mxCell id="QkUWkM4qVgkFBgqkuegU-134" value="[if msg is &lt;br&gt;error]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="94" y="1048" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QkUWkM4qVgkFBgqkuegU-135" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="94" y="1162" width="50" height="30" as="geometry" />
