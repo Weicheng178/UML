@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T20:24:49.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pvPdZkdcL9VSrnskE5-S" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T20:26:25.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3ufFzBkdv5JIVpmnrd_D" version="20.5.3" type="github">
   <diagram id="MyJDFgbNnC9lY3DK6d-x" name="Page-1">
-    <mxGraphModel dx="1044" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,41 +166,41 @@
         <mxCell id="hzZ7OADZ9Wjstboydcab-166" value="Ask interface of selected &lt;br&gt;language" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="337.83000000000004" y="394" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-167" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="354.71" y="539.5" width="110" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-175" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="355.25" y="530" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-168" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;exitX=-0.211;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="hzZ7OADZ9Wjstboydcab-176" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;exitX=-0.211;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="504.90999999999985" y="568.498" as="sourcePoint" />
-            <mxPoint x="319.01999999999975" y="569.0899999999999" as="targetPoint" />
+            <mxPoint x="504.77999999999975" y="559.998" as="sourcePoint" />
+            <mxPoint x="318.8899999999999" y="560.5900000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-169" value="Select acces to folders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140.71" y="500" width="140" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-177" value="Select configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150.83" y="490" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-170" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0.071;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="hzZ7OADZ9Wjstboydcab-178" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0.071;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="120" y="530.3800000000001" as="sourcePoint" />
-            <mxPoint x="309.1700000000001" y="530" as="targetPoint" />
+            <mxPoint x="119.28999999999996" y="520.3800000000001" as="sourcePoint" />
+            <mxPoint x="308.46000000000004" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-171" value="Display directory interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="135.71" y="550" width="160" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-179" value="Display configuration&amp;nbsp;interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="125.83000000000001" y="540" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-172" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;" edge="1" parent="1">
+        <mxCell id="hzZ7OADZ9Wjstboydcab-180" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="309" y="580" as="sourcePoint" />
-            <mxPoint x="120.14666666666653" y="580" as="targetPoint" />
+            <mxPoint x="309" y="570" as="sourcePoint" />
+            <mxPoint x="120.98666666666645" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-173" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=-0.083;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="hzZ7OADZ9Wjstboydcab-181" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=-0.083;entryY=0.173;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="319.1700000000001" y="540.56" as="sourcePoint" />
-            <mxPoint x="507.34000000000015" y="540.0039999999999" as="targetPoint" />
+            <mxPoint x="318.90999999999985" y="530.56" as="sourcePoint" />
+            <mxPoint x="507.0799999999999" y="530.0039999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-174" value="Ask interface folder directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="323.53999999999996" y="509.5" width="180" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-182" value="Ask interface configuration" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="332.83" y="500" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
