@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T20:34:53.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oGDYMbaq9cTzctyj2nwR" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T20:38:21.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gBVt9P2zxA1KJ_upk01u" version="20.5.3" type="github">
   <diagram id="MyJDFgbNnC9lY3DK6d-x" name="Page-1">
-    <mxGraphModel dx="665" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="812" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,8 +270,8 @@
             <mxPoint x="507.1300000000001" y="632.0039999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-206" value="Select open a src folder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="135.5" y="705" width="150" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-206" value="Select manage folders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140.5" y="705" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-207" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0.071;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -294,8 +294,8 @@
             <mxPoint x="507.1300000000001" y="742.0039999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-211" value="Send open request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="353.33" y="714.5" width="120" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-211" value="Send show folders request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="328.33" y="714.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-212" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="355.58" y="744" width="110" height="30" as="geometry" />
@@ -335,21 +335,21 @@
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-220" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;targetPerimeterSpacing=-4;sourcePerimeterSpacing=3;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="517.4200000000001" y="836" as="sourcePoint" />
-            <mxPoint x="707.4200000000001" y="836" as="targetPoint" />
+            <mxPoint x="517.4200000000001" y="754" as="sourcePoint" />
+            <mxPoint x="707.4200000000001" y="754" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-221" value="Request file directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="542.8399999999999" y="808" width="140" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-221" value="Request folder directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="537.8399999999999" y="726" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-222" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;targetPerimeterSpacing=-4;sourcePerimeterSpacing=3;exitX=-0.099;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="703.4200000000003" y="868.0000000000002" as="sourcePoint" />
-            <mxPoint x="516.9966666666674" y="868.2799999999997" as="targetPoint" />
+            <mxPoint x="703.4200000000003" y="786.0000000000002" as="sourcePoint" />
+            <mxPoint x="516.9966666666674" y="786.2799999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-223" value="&amp;nbsp;File directory found&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="547.8400000000001" y="839" width="130" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-223" value="&amp;nbsp;Folder directory found" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="542.8400000000001" y="757" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-224" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;targetPerimeterSpacing=-4;sourcePerimeterSpacing=3;exitX=-0.099;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
