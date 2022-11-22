@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T20:28:24.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="NED6VnEPVDCD-GE00AAT" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T20:29:27.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5-owVPW_0fo30pS0hzPj" version="20.5.3" type="github">
   <diagram id="MyJDFgbNnC9lY3DK6d-x" name="Page-1">
-    <mxGraphModel dx="696" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,8 +273,8 @@
         <mxCell id="hzZ7OADZ9Wjstboydcab-197" value="Folder removed successfully" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="522.5000000000001" y="637" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-198" value="Select remove a folder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140.5" y="586" width="140" height="30" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-198" value="Select change language" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="135.5" y="586" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-199" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0.071;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -471,8 +471,8 @@
         <mxCell id="hzZ7OADZ9Wjstboydcab-241" value="Display operation interface &lt;br&gt;adapted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="129.17000000000002" y="1036" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hzZ7OADZ9Wjstboydcab-242" value="[if select &lt;br&gt;remove]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="31" y="620" width="70" height="40" as="geometry" />
+        <mxCell id="hzZ7OADZ9Wjstboydcab-242" value="[if change&lt;br&gt;language]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="619" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hzZ7OADZ9Wjstboydcab-243" value="[else]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="33" y="692" width="50" height="30" as="geometry" />
