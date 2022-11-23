@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T19:31:05.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g1PVdnAVuDLG5q8wq0vi" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-23T19:32:28.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xGzU1-3r3zKhmFmTaBWc" version="20.6.0" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="418" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,21 +529,30 @@
           <mxGeometry x="375.60999999999996" y="669" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvdwhUcZBeg1S0Jd__fn-5" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="354.15" y="695" width="110" height="30" as="geometry" />
+          <mxGeometry x="354.15" y="699" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vvdwhUcZBeg1S0Jd__fn-6" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;exitX=-0.211;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="504.3499999999996" y="723.998" as="sourcePoint" />
-            <mxPoint x="318.45999999999975" y="724.5899999999999" as="targetPoint" />
+            <mxPoint x="504.3499999999996" y="727.998" as="sourcePoint" />
+            <mxPoint x="318.45999999999975" y="728.5899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vvdwhUcZBeg1S0Jd__fn-7" value="Request select (transfert element, &lt;br&gt;save log state or save log)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="114.17" y="699" width="200" height="40" as="geometry" />
+          <mxGeometry x="115.17" y="699" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vvdwhUcZBeg1S0Jd__fn-8" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="308.85" y="739" as="sourcePoint" />
             <mxPoint x="119.99666666666664" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvdwhUcZBeg1S0Jd__fn-9" value="Select target path" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="348.95000000000005" y="731" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vvdwhUcZBeg1S0Jd__fn-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0.071;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="318.2400000000001" y="759.3800000000001" as="sourcePoint" />
+            <mxPoint x="507.4100000000001" y="759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
