@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T17:13:45.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="8FFiUT2nfDQ2P9XF6nXM" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T19:08:22.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ZKoiMxLpqzoBegP2NDtb" type="github">
   <diagram id="r0X0MlbLGei5c-_fVZ79">
-    <mxGraphModel dx="541" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,8 +177,8 @@
             <mxPoint x="317.26666666666705" y="399.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tU5jhhU6zAbJtf0umgDA-62" value="Display new interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="145.06000000000003" y="386.99999999999994" width="140" height="30" as="geometry" />
+        <mxCell id="tU5jhhU6zAbJtf0umgDA-62" value="Display new informations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="135.06000000000003" y="386.99999999999994" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tU5jhhU6zAbJtf0umgDA-63" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
