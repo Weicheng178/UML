@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T15:58:01.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="UZMYSuBDGmwhJDc2p3f-" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T16:57:28.683Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="mwz1lJzfOfbbrhrV-sy8" type="github">
   <diagram id="HmiVOXCfkznYFpfLbN4U" name="Page-1">
-    <mxGraphModel dx="443" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="571" y="194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="57e0UM0QxPIs5cZdz2t--14" value="Select path folder also &lt;br&gt;extensions to encrypt&lt;br&gt;if need and then start encrypt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="57e0UM0QxPIs5cZdz2t--14" value="Select folder path&amp;nbsp;also &lt;br&gt;extensions to encrypt&lt;br&gt;if need and then start encrypt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="187.41" y="253" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="57e0UM0QxPIs5cZdz2t--15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
