@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T15:26:01.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="-aVkDnffTayZIrxYlySo" type="github"><diagram id="ZZBW9gHTdodT0gKwObBe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-14T15:33:46.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="HMtA8YXfDrn8S32tkE90" type="github">
+  <diagram id="RmPmtxM8VEzseqfuqtIl" name="Page-1">
+    <mxGraphModel dx="731" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-1" value="&lt;span style=&quot;&quot;&gt;Application IHM&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="326.46" y="86.5" width="100" height="253.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-2" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;rounded=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="163" y="67" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-3" value="&lt;span style=&quot;&quot;&gt;Application&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="525" y="86.5" width="100" height="253.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-4" value="&lt;span style=&quot;&quot;&gt;Storage&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="723" y="86.5" width="100" height="253.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-5" value="" style="endArrow=none;dashed=1;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#009900;fontColor=#143642;fillColor=#d5e8d4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="178" y="340" as="sourcePoint" />
+            <mxPoint x="177.86493506493503" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;glass=0;labelBackgroundColor=none;fillStyle=auto;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="173" y="160" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;glass=0;labelBackgroundColor=none;fillStyle=auto;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="371.46" y="160" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;glass=0;labelBackgroundColor=none;fillStyle=auto;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;glass=0;labelBackgroundColor=none;fillStyle=auto;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="768" y="160" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-10" value="Select show saves" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="218.09" y="154" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;entryX=0.071;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="183.5" y="183.42999999999984" as="sourcePoint" />
+            <mxPoint x="372.6700000000001" y="183.04999999999984" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-12" value="Ask interface show saves" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="397" y="167" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="381" y="195" as="sourcePoint" />
+            <mxPoint x="571" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-20" value="Loading screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="419.77000000000004" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-21" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;exitX=-0.211;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="567.55" y="268.99800000000005" as="sourcePoint" />
+            <mxPoint x="381.65999999999985" y="269.59000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-22" value="Show all log informations &lt;br&gt;on the screen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="197.60000000000002" y="248" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-23" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="370.77" y="289.0000000000001" as="sourcePoint" />
+            <mxPoint x="182.59666666666658" y="289.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-46" value="Check all log informations&lt;br&gt;in the file Dailylog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="597.69" y="170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="581.33" y="209.9999999999999" as="sourcePoint" />
+            <mxPoint x="771.33" y="209.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-48" value="Log informations found" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="601.33" y="225" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIF5DPFye3Cb1UIWGX4y-49" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=1;labelBackgroundColor=#DAD2D8;strokeColor=#A8201A;fontColor=#143642;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="769.8300000000006" y="253" as="sourcePoint" />
+            <mxPoint x="579.9966666666669" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
